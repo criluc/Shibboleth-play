@@ -8,5 +8,4 @@ test-result
 *.class
 logs
 server.pid
-dist
 lib
